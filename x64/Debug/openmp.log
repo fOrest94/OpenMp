@@ -1,0 +1,7 @@
+﻿  openmp.cpp
+c:\users\duduś\desktop\apka\openmp\openmp\openmp.cpp(15): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\duduś\desktop\apka\openmp\openmp\openmp.cpp(16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\duduś\desktop\apka\openmp\openmp\openmp.cpp(70): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\duduś\desktop\apka\openmp\openmp\openmp.cpp(77): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\duduś\desktop\apka\openmp\openmp\openmp.cpp(78): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  openmp.vcxproj -> C:\Users\Duduś\Desktop\apka\openmp\x64\Debug\openmp.exe
